@@ -58,7 +58,7 @@ class ular(animal):
         
 hewan1 = badak('badak bercula satu', 'tumbuhan', 'darat', 'melahirkan')
 hewan1.data()
-hewan2 = ikan('ikan paus', 'plankton', 'air', 'melahirkan')     
+hewan2 = ikan('ikan hiu', 'ikan kecil kecil', 'air', 'melahirkan')     
 hewan2.data()
 hewan3 = ular('ular', 'daging', 'darat', 'bertelur')
 hewan3.data()
